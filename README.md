@@ -1,7 +1,7 @@
 ## Diagrams
 
 - [Help Desk Escalation Workflow](diagrams/help-desk-escalation-workflow.md)
--
+
 - # Help Desk Ticket Documentation Samples
 
 This repository includes sample IT support tickets written in a clear help desk documentation format.
